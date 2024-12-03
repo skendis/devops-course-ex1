@@ -1,3 +1,4 @@
+version: "3.9"
 name: "ex1"
 services:
   web:
